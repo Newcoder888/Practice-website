@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding:0;
+}
+img {
+  float: left;
+
+}
+p {
+  margin: 50px 20px 50px 20px;
+}
+.picofme {
+  width: 400px;
+/*when setting img to fit background you need height and width. ie 1200px is the width scale so divide that by 4 sides would be width 300px. If lenght is 800px divide by four */
+}
+
+nav{
+  width: 100%;
+  height: 100px;
+  background-color: white;
+}
+
+
+body{
+  background-color:#99ff99;
+}
+h1{
+  color:grey;
+  font-size: 14px;
+  padding-top: 45px;
+  padding-left: 20px;
+}
